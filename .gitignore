@@ -1,0 +1,6 @@
+logs/
+venv/
+.env
+Study_Buddy_AI.egg-info/
+Study_Budy_AI.egg-info/
+results/
